@@ -32,7 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto realizado dentro do NLW-IA Foundations da Rocketseat. Neste projeto desenvolvemos uma aplicação que utiliza inteligência artificial para capturar o áudio dos vídeos shorts do YouTube e gerar um resumo em texto do que foi falado no short.
 
-<a href="#" target="_blank">Clique aqui para visualizar</a>
 
 ## :memo: Licença
 
