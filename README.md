@@ -1,6 +1,5 @@
 <p align="center">
-  Desafio realizado dentro do Explorer<br/>
-  <a href="https://www.rocketseat.com.br/explorer">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  Projeto realizado dentro do NLW IA.<br/>
 </p>
 
 <p align="center">
